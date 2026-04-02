@@ -29,6 +29,7 @@ https://www.kaggle.com/datasets/projjal1/human-conversation-training-data?resour
 - streamlit
 
 ## Images
-![training](image.png)
-![test_function](image-1.png)
-![stream_lit_app](image-2.png)
+<img width="888" height="535" alt="image" src="https://github.com/user-attachments/assets/9bef70f8-8199-4eb7-b7cd-2e8928b0c33a" />
+<img width="1385" height="1040" alt="image-1" src="https://github.com/user-attachments/assets/d179e53f-20bb-49f2-aa7b-50fbfac2d7f1" />
+<img width="913" height="831" alt="image-2" src="https://github.com/user-attachments/assets/8e9bcb27-832a-418f-a44a-5376ee1e8b7a" />
+
